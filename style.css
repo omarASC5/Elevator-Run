@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  background-image: url("logo.jpg");
+  background-size: 200px 200px;
+  background-repeat: space repeat;
+/*   zoom:67%; */
+}
+
